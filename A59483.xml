@@ -1,0 +1,159 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Lord Chancellor's speech upon the Lord Treasurer's taking his oath in the Exchequer, the 26th of June, 1673</title>
+            <author>Shaftesbury, Anthony Ashley Cooper, Earl of, 1621-1683.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1673</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 4 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A59483</idno>
+            <idno type="STC">Wing S2905</idno>
+            <idno type="STC">ESTC R14780</idno>
+            <idno type="EEBO-CITATION">12429669</idno>
+            <idno type="OCLC">ocm 12429669</idno>
+            <idno type="VID">61936</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A59483)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 61936)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 297:21)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Lord Chancellor's speech upon the Lord Treasurer's taking his oath in the Exchequer, the 26th of June, 1673</title>
+                  <author>Shaftesbury, Anthony Ashley Cooper, Earl of, 1621-1683.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1673.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The Lord Treasurer was Thomas Osborne, Duke of Leeds.</note>
+                  <note>Attributed to the Earl of Shaftesbury. Cf. NUC pre-1956.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Leeds, Thomas Osborne, --  Duke of, 1631-1712.</term>
+               <term>Great Britain --  History --  Charles II, 1660-1685 --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:61936:1"/>
+            <!-- PDF PAGE 37 -->
+            <pb facs="tcp:61936:1"/>
+            <!-- PDF PAGE 37 -->
+            <p>THE Lord Chancellor's SPEECH Upon the Lord Treaſurer's Taking his <hi>OATH</hi> IN THE EXCHEQUER, <hi>The 26<hi rend="sup">th</hi> of June,</hi> 1673.</p>
+            <figure>
+               <figDesc>printer's or publisher's device</figDesc>
+            </figure>
+            <p>LONDON, Printed in the Year 1673.</p>
+         </div>
+      </front>
+      <body>
+         <div type="speech">
+            <pb facs="tcp:61936:2"/>
+            <!-- PDF PAGE 38 -->
+            <pb n="3" facs="tcp:61936:2"/>
+            <!-- PDF PAGE 38 -->
+            <head>The <hi>Lord Chancellor's Speech,</hi> upon the <hi>Lord Treaſurer's</hi> taking his <hi>Oath</hi> in the <hi>Exche<g ref="char:EOLhyphen"/>quer</hi> 
+               <date>the 26<hi rend="sup">th.</hi> of <hi>June,</hi> 1673.</date>
+            </head>
+            <opener>
+               <salute>My Lord Treaſurer,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>He King of His Grace and Favour hath made choice of you to be <hi>Lord High Treaſurer of England,</hi> as alſo <hi>Treaſurer</hi> of His <hi>Exche<g ref="char:EOLhyphen"/>quer,</hi> which are two diſtinct Offices. The firſt you are al<g ref="char:EOLhyphen"/>ready poſſeſſed of, by the Kings delivery of the White Staff, and have taken the Oath for that Office before me in another place. The other His Majeſty hath conferred on you by His Letters Patents, under the Great Seal, which I am to deliver your Lordſhip, after you have been Sworn into that Office in this <hi>Court;</hi> of which, by this Patent, you are made a <hi>Chief Judge.</hi>
+            </p>
+            <p>
+               <hi>Kings</hi> are as <hi>Gods,</hi> and beſtow Honour, Riches, and Power where they pleaſe; but in this They <hi>are as Men,</hi> that They can onely <hi>Chooſe,</hi> not <hi>Make</hi> a per<g ref="char:EOLhyphen"/>ſon Adequate to their Imployment: For if Their Choiſe be meerly <hi>Favour,</hi> not <hi>Fitneſs,</hi> their <hi>Omni<g ref="char:EOLhyphen"/>potency</hi> is quickly ſeen through. Our <hi>Great Maſter</hi> hath therefore choſen you, one He has had Experi<g ref="char:EOLhyphen"/>ence of theſe many years, as a Member of this Houſe of Commons, which hath been ſo fruitful a <hi>Nurſery</hi> of our <hi>Engliſh Miniſters</hi> and <hi>States-men.</hi> Beſides, your Lordſhip was ſome years ſince joyned with another very able and worthy Perſon in the <hi>Treaſury</hi> of the <hi>Navy,</hi> and after that managed it alone: So that you have before this been truſted
+<pb n="4" facs="tcp:61936:3"/>
+               <!-- PDF PAGE 39 -->
+with Three parts of Five of the <hi>Revenue</hi> of the <hi>Crown.</hi>
+            </p>
+            <p>
+               <hi>My Lord,</hi>
+               <lb/>
+You are in a <hi>Place,</hi> the <hi>very beſt</hi> that any Engliſh Subject is capable of, therefore you are in another <hi>Poſition,</hi> not onely to the <hi>King</hi> our <hi>Maſter,</hi> but to us All, then you were ever before. He and we have all reaſon to look upon you as a Man at <hi>Eaſe,</hi> and that has nothing to wiſh, but the <hi>Proſperity</hi> of his <hi>Maſter</hi> and the <hi>Nation,</hi> that you may quietly and long enjoy ſo <hi>Great</hi> a <hi>Place,</hi> under ſo <hi>Good</hi> a <hi>Maſter.</hi> There is no more to be asked of you in this Condition, but that you <hi>know</hi> your own <hi>Intereſt,</hi> and that will ſecure you to the <hi>King's</hi> and the <hi>Nation's.</hi> I repeat them thus <hi>together,</hi> becauſe none but <hi>Mountebanks</hi> in State-matters can think of them <hi>aſunder.</hi> And let me ſay to your Lordſhip, That however happy you have been in arriving to this High Station, yet <hi>Parta tueri non minor eſt virtus.</hi> Many great men have proved unfor<g ref="char:EOLhyphen"/>tunate, in not obſerving that the <hi>Addreſs</hi> and <hi>Means</hi> to <hi>Attain</hi> great things, are oftentimes very different from <hi>thoſe</hi> that are neceſſary to <hi>Maintain</hi> and <hi>Eſtabliſh</hi> a ſure and long <hi>Poſſeſsion</hi> of them.</p>
+            <p>
+               <hi>My Lord,</hi>
+               <lb/>
+'Twill be no <hi>Civility</hi> to you, to hold you longer; The Viſits you are to make to the ſeveral Offices of the <hi>Exchequer</hi> will take you up the reſt of this Morn<g ref="char:EOLhyphen"/>ing. I ſhall only add my <hi>good wiſhes,</hi> That your Lord<g ref="char:EOLhyphen"/>ſhip may long enjoy the <hi>Honour</hi> of this <hi>Great Employ<g ref="char:EOLhyphen"/>ment,</hi> and His Majeſty the <hi>Satisfaction</hi> of <hi>His Choice.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
